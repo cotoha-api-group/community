@@ -60,6 +60,7 @@ https://www.ntt.com/about-us/hp/social.html
 
 ## 関連リンク
 * [COTOHA API Portal](https://api.ce-cotoha.com/contents/)<br>
-* [Twitter] (https://twitter.com/cotohaapi)<br>
+* [Slack(Join URL)](https://join.slack.com/t/cotoha-api/shared_invite/enQtNTQ0Nzk4MDI0Mjg4LWUzOTY3MjlkYzQ0ZDNhNDk1NTYzOTNlMzMwNzA0MmZkNDE5NGE5MzUwM2RjMmY5ZGNkNWE0NGE4NmYwNTFiZmI)<br>
+* [Twitter](https://twitter.com/cotohaapi/)<br>
 * [Facebook](https://www.facebook.com/cotohaapi/)<br>
 * [connpass](https://cotohaapi.connpass.com/)<br>
