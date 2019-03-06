@@ -57,3 +57,9 @@ APIを利用される中で「これはこうだったらいいのにな」「�
 ## 備考
 COTOHA API Communityは、NTTコミュニケーションズのソーシャルメディアポリシーに準じて、運営しております。<br>
 https://www.ntt.com/about-us/hp/social.html 
+
+## 関連リンク
+* [COTOHA API Portal](https://api.ce-cotoha.com/contents/)<br>
+* [Twitter] (https://twitter.com/cotohaapi)<br>
+* [Facebook](https://www.facebook.com/cotohaapi/)<br>
+* [connpass](https://cotohaapi.connpass.com/)<br>
